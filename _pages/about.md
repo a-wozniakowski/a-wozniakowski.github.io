@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 Currently, I am a software engineer at Apple; and I have interests
 in applied and computational mathematics, machine learning, and
-statisics research and applications. 
+statistics research and applications. 
 
 <div class="col-sm mt-3 mt-md-0 text-center">
         {% include figure.liquid loading="eager" path="assets/img/blob_6.png" title="example image" class="img-fluid rounded z-depth-1" width="350px" %}
